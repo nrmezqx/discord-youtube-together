@@ -7,7 +7,7 @@ YouTube Together Example Bot
 #Made By Nomik
 
 # Bot
-**[Click here to invite](https://discord.com/api/oauth2/authorize?client_id=880333148263706645&permissions=3073&scope=bot)**
+**[Click here to invite](https://discord.com/api/oauth2/authorize?client_id=botid&permissions=3073&scope=bot)**
 
 # Installing
 - İndirin
@@ -20,4 +20,4 @@ YouTube Together Example Bot
 - odaya katılan bot ile keyfini çıkarın
 
 # Default command prefix
-`a!`
+`prefix!`
