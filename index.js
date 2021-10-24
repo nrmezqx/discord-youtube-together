@@ -40,7 +40,7 @@ const log = message => {
 };
 
 
-client.on("ready", () => console.log("Bot Aktif | CivCiv Diyarı"));
+client.on("ready", () => console.log("Bot Aktif | NoMiK (nrmezqx)"));
 client.on("warn", console.warn);
 client.on("error", console.error);
 
