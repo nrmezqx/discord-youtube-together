@@ -1,10 +1,10 @@
 {
   "name": "activities",
   "version": "1.0.0",
-  "description": "Discord Video İzleme Botu",
+  "description": "CivCiv Diyarı Yayın Botu",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node shard.js"
   },
   "repository": {
     "type": "git",
@@ -15,14 +15,16 @@
     "discord",
     "activities"
   ],
-  "author": "BabaYanakS",
+  "author": "nomşj",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nrmezqx/discord-youtube-oynat-c-"
   },
   "homepage": "https://github.com/nrmezqx/discord-youtube-oynat-c-",
   "dependencies": {
-    "discord.js": "^12.5.2",
-    "dotenv": "^8.2.0"
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.6.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.5"
   }
 }
