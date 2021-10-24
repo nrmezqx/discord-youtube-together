@@ -1,5 +1,5 @@
 # YouTube Together Example
-YouTube Together Example Bot
+YouTube Together Example Bot (Shard Added)
 
 # Kütüphane
 **[discord.js](https://discord.js.org)**
@@ -7,17 +7,17 @@ YouTube Together Example Bot
 #Made By Nomik
 
 # Bot
-**[Click here to invite](https://discord.com/api/oauth2/authorize?client_id=botid&permissions=3073&scope=bot)**
+**[Click here to invite](https://discordapi.com/permissions.html#8)**
 
 # Installing
 - İndirin
 - Değiştirin `.env.example` to `.env`
-- Token Ekleyin `.env` :: `DISCORD_TOKEN=YOUR_BOT_TOKEN`
+- Token Ekleyin `index.js` :: `client.login("TOKEN");`
 - Başlatın `npm start`
 
 # YouTube Together
-- baştat `a!yttogether <channelid>`
+- baştat `c!oynat <channelid> youtube`
 - odaya katılan bot ile keyfini çıkarın
 
 # Default command prefix
-`prefix!`
+`prefixc!`
