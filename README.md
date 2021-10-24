@@ -13,7 +13,8 @@ YouTube Together Example Bot (Shard Added)
 - İndirin
 - Değiştirin `.env.example` to `.env`
 - Token Ekleyin `index.js` :: `client.login("TOKEN");`
-- Başlatın `npm start`
+- Modülleri Kurun `npm i dotenv,npm i discord.js`
+- Yönetici OlarakBaşlatın `npm start`
 
 # YouTube Together
 - baştat `c!oynat <channelid> youtube`
@@ -21,3 +22,5 @@ YouTube Together Example Bot (Shard Added)
 
 # Default command prefix
 `prefixc!`
+
+NOT:Eğer botu 2 veya 2'den fazla sunucuda kullanacaksanız shard.js kısmındaki 1 sayısını 2 yapınız. 
