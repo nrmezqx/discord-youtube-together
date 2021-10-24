@@ -6,7 +6,7 @@ const bumbe = new ShardingManager('./index.js', { //main
 bumbe.spawn();
 
 bumbe.on('shardCreate', shard => {
-    console.log(`${shard.id} İDli shard başlatıldı bot artık Yanak gibi!`);
+    console.log(`${shard.id} İDli shard başlatıldı bot artık Canavar gibi!`);
 });
 
 //v12.init
