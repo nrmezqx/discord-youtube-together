@@ -1,7 +1,7 @@
 {
   "name": "activities",
   "version": "1.0.0",
-  "description": "CivCiv Diyarı Yayın Botu",
+  "description": "v12-advanced-discord-youtube-together",
   "main": "index.js",
   "scripts": {
     "start": "node shard.js"
@@ -15,7 +15,7 @@
     "discord",
     "activities"
   ],
-  "author": "nomşj",
+  "author": "nrmezqx",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nrmezqx/discord-youtube-oynat-c-"
